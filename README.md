@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hustini
 - 👀 I’m interested in videogames, books and the gym
-- 🌱 I’m currently creating a game using pygame (smashbros)
+- 🌱 I’m currently tring to understand the Astar Algorithm
 - 📫 You can reach me on my email: ejder.salih@outlook.com
 
 <!---
