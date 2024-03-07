@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hustini
 - 👀 I’m interested in videogames, books and the gym
-- 🌱 I’m currently tring to understand the Astar Algorithm
+- 🌱 I’m currently working on a discord bot to annoy my friends
 - 📫 You can reach me on my email: ejder.salih@outlook.com
 
 <!---
