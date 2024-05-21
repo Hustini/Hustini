@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
 
 ## About Me
-I'm passionate about video games, reading, and fitness.
+I'm passionate about video games, reading, fitness and motorcycles.
 
 ## Contact
 Feel free to reach out via email: ejder.salih@outlook.com
