@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
 
 ## About Me
-I'm passionate about video games, reading, and fitness. Currently, I'm working on developing a Discord bot to enhance interaction with friends.
+I'm passionate about video games, reading, and fitness.
 
 ## Contact
 Feel free to reach out via email: ejder.salih@outlook.com
@@ -18,6 +18,10 @@ Here are some of the projects I've been working on:
 4. **[UI_Elements](https://github.com/Hustini/UI_Elements)**: A collection of HTML UI elements.
 5. **[Wordle](https://github.com/Hustini/Wordle)**: A JavaScript implementation of Wordle.
 6. **[astar_pathfinder](https://github.com/Hustini/astar_pathfinder)**: A Python project for the A* pathfinding algorithm.
+
+## Current Projects
+- **Portfolio Website**: I'm building a personal portfolio website to showcase my projects and skills.
+- **Video Game Development**: Working on a small video game project to enhance my game development skills.
 
 ## How to Contribute
 Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or submit a pull request.
