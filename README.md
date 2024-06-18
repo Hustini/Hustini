@@ -1,29 +1,29 @@
-# Hustini's GitHub Profile
+# 👋 Hi, I'm Hustini!
 
-Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm a second-year computer science student with a passion for learning, coding, and exploring new technologies. Here you'll find some of my projects, assignments, and experiments.
 
-## About Me
-I'm passionate about video games, reading, fitness and motorcycles.
+# 💫 About Me:
+- **Student:** I'm currently in my second year of computer science studies.
+- **Interests:** I have a keen interest in web development, data science, and contributing to open-source projects.
+- **Learning:** I'm always eager to learn new programming languages and technologies.
+- **Free Time:** In my free time, I enjoy reading books, playing video games, going to the gym, and riding motorcycles.
 
-## Contact
-Feel free to reach out via email: ejder.salih@outlook.com
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Projects
-Here are some of the projects I've been working on:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hustini&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hustini&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustini&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Pinned Repositories
-1. **[blackjack](https://github.com/Hustini/blackjack)**: A Python-based blackjack game.
-2. **[smashbros](https://github.com/Hustini/smashbros)**: A project related to Smash Bros in Python.
-3. **[flappy_bird](https://github.com/Hustini/flappy_bird)**: A Python version of Flappy Bird.
-4. **[UI_Elements](https://github.com/Hustini/UI_Elements)**: A collection of HTML UI elements.
-5. **[Wordle](https://github.com/Hustini/Wordle)**: A JavaScript implementation of Wordle.
-6. **[astar_pathfinder](https://github.com/Hustini/astar_pathfinder)**: A Python project for the A* pathfinding algorithm.
+---
+[![](https://visitcount.itsvg.in/api?id=Hustini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Current Projects
-- **Portfolio Website**: I'm building a personal portfolio website to showcase my projects and skills.
-- **Video Game Development**: Working on a small video game project to enhance my game development skills.
-
-## How to Contribute
-Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or submit a pull request.
-
-Thank you for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
