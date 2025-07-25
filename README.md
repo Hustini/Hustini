@@ -112,5 +112,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustini&show_icons=true&locale=en" alt="hustini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hustini&" alt="hustini" /></p>
-
-![snake gif](https://github.com/Hustini/Hustini/blob/output/github-contribution-grid-snake.gif)
